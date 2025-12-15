@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "api-rest-with-flutter-main",
+            "cwd": "atual\\api-rest-with-flutter-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "api-rest-with-flutter-main (profile mode)",
+            "cwd": "atual\\api-rest-with-flutter-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "api-rest-with-flutter-main (release mode)",
+            "cwd": "atual\\api-rest-with-flutter-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "curso-navegacao-e-arquitetura-main",
+            "cwd": "old\\curso-navegacao-e-arquitetura-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "curso-navegacao-e-arquitetura-main (profile mode)",
+            "cwd": "old\\curso-navegacao-e-arquitetura-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "curso-navegacao-e-arquitetura-main (release mode)",
+            "cwd": "old\\curso-navegacao-e-arquitetura-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "olamundo",
+            "cwd": "old\\olamundo",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "olamundo (profile mode)",
+            "cwd": "old\\olamundo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "olamundo (release mode)",
+            "cwd": "old\\olamundo",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
